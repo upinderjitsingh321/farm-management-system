@@ -1,0 +1,37 @@
+
+.bg-view{
+       height: 40vh;
+    width: 100%;
+    border-radius: 10px;
+    margin: 30px 0px;
+    object-fit: cover;
+
+}
+.row-color{
+    margin: 0px 100px;
+    background-color: white;
+    padding: 0px 100px;
+}
+.soilpic-one{
+    border-radius: 30px;
+    height: 300px;
+    width: 85%;
+    padding: 20px;
+    object-fit: cover;
+    
+}
+.back-color{
+    background-color: lightgray;
+    padding: 0px 150px;
+}
+
+.set-photo{
+    text-align: center;
+}
+.set-title{
+    margin-top: 20px;
+}
+.view-center{
+    text-align: justify;
+    margin-bottom: 20px;
+}

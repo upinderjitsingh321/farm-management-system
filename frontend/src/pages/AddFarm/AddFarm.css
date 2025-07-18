@@ -1,0 +1,11 @@
+.farm-padding{
+    margin: 30px 20px;
+}
+.gap{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    gap: 25px;
+}
+
+ 

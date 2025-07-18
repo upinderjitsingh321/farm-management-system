@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(img/bimage1.jpg);
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0,0.2);
+    background-size: cover;
+    height: 100vh;
+   background-attachment: fixed;
+    position: relative;
+}
+.banner-padding{
+    padding: 140px;
+}
+section img{
+    width: 170px;
+    border-radius: 50%;
+}

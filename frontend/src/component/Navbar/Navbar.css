@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", serif;
+}
+.logo{
+    color: white;
+    opacity: 0.8;
+    padding-left: 90px;
+    font-size: 25px;
+}
+.main-navbar {
+    background: #043820;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1; /* Keeps it above other elements */
+    
+}
+
+.farm_nav {
+    justify-content: center;
+    font-size: 17px;
+    
+
+}
+.farm_gap {
+    column-gap: 19px;
+    font-weight: 300p;
+}
+
+.button-container li{
+    list-style: none;
+    
+}
+.button-container {
+    display: flex;
+    margin-right: 85px;
+    gap: 10px;
+  }
+
+.link-color{
+    color: white;
+    opacity: 0.8;
+    text-decoration: none;
+}
+.link-color:hover{
+    color: black;
+}
+.log-btn{
+    opacity: 0.8;
+}
+
+   

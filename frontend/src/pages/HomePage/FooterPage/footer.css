@@ -1,0 +1,12 @@
+.list-items{
+    text-align: start;
+    padding-left: 160px;
+}
+.icon-footor{
+    list-style: none;
+    background-color: white;
+    border-radius: 50%;
+}
+.icon-footor img{
+    padding: 10px;
+}

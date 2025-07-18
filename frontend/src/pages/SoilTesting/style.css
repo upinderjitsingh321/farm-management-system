@@ -1,0 +1,91 @@
+.soil_test_background {
+    background-image: url(img/soiltest3.jpg);
+    background-blend-mode: darken;
+    background-color: rgba(0, 0,0,0.4);
+    height: 60vh;
+    background-size: cover;
+    background-position: center -150px;
+    margin: 0px;
+   background-attachment: fixed;
+    
+    
+}
+
+.soil_main_text {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    font-size: 26px;
+    padding: 28px 0px;
+    font-weight: 500;
+    line-height: 50px;
+    color: white;
+}
+
+.soil_imp_list {
+    text-align: justify;
+}
+
+.soil_main_text_1 {
+    padding-left: 40px;
+}
+
+.soil_main_text_2 {
+    padding-left: 300px;
+}
+
+.soil_main_text_3 {
+    padding-left: 350px;
+}
+
+.soil_imp_heading {
+    font-weight: 600;
+
+}
+
+.soil_para {
+    font-weight: 300;
+}
+
+.first_section {
+    background-color: #ede9e9;
+    margin: 70px 70px;
+    padding: 50px 40px;
+    border-radius: 25px;
+}
+
+.col-md-6>img {
+    width: 100%;
+    border: 2px solid #d2cece;
+    padding: 10px;
+    border-radius: 25px;
+    height: 255px;
+
+}
+
+.col-md-6.photo2 {
+    margin-top: 120px;
+    height: 330px;
+}
+
+.view_more {
+    width: 100%;
+    text-align: center;
+}
+:hover.view_more{
+    text-decoration: underline;
+    color: blue;
+}
+
+a:active {
+    background-color: #007BFF;
+    /* Background when clicked */
+    color: white;
+    border: 1px solid #0056b3;
+    /* Optional border */
+}
+
+.view_more a {
+    text-decoration: none;
+
+}

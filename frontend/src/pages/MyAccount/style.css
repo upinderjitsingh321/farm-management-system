@@ -1,0 +1,11 @@
+.account-list{
+    list-style: none;
+    padding: 0;
+}
+.left-side{
+    height: 400px;
+    padding-top: 30px;
+}
+.toogle-list{
+    padding: 20px 0px 0px 100px;
+}
